@@ -1,0 +1,8 @@
+divide 4
+apply 12
+
+divide -4
+apply 12
+
+divide -4
+apply -12

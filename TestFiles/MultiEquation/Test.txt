@@ -1,0 +1,38 @@
+add 8
+multiply 2
+subtract 8
+divide 8
+apply 4
+
+add 46
+divide 10
+apply 4
+
+subtract 24
+add -12
+multiply -1
+apply 4
+
+subtract 24
+add -12
+multiply -1
+divide -32
+apply 4
+
+subtract 24
+add -12
+multiply -1
+divide -40
+apply 4
+
+subtract 24
+add -12
+multiply -1
+divide -32
+divide 1
+divide 1
+divide 1
+divide 1
+divide 1
+divide 1
+apply 4

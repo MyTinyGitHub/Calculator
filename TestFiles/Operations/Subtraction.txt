@@ -1,0 +1,8 @@
+subtract 3
+apply 4
+
+subtract -3
+apply 4
+
+subtract -3
+apply -4
