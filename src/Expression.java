@@ -15,10 +15,6 @@ public class Expression {
         public double calculate(double val1, double val2) {
             return expression.applyAsDouble(val1, val2);
         }
-
-        public DoubleBinaryOperator getBinaryOperator() {
-            return expression;
-        }
     }
     private Type expression;
     private double value;
@@ -32,9 +28,6 @@ public class Expression {
         return this.value;
     }
 
-    public DoubleBinaryOperator operator() {
-        return this.expression.getBinaryOperator();
-    }
     public double execute(double number) {
         return expression.calculate(number, value);
     }
